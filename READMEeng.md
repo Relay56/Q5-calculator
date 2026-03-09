@@ -1,7 +1,8 @@
-5-calculator
+ Q5-calculator
+ 
 A calculator with a graphical interface written in Python (tkinter). Supports multiple mathematical functions, memory, calculation history, and theme switching.
 
-Features
+## Features
 Basic operations: +, -, *, /
 Trigonometry: sin, cos, tan, asin, acos, atan (in radians)
 Logarithms: log (decimal), ln (natural)
@@ -14,13 +15,17 @@ History: view the last 20 operations, double-click to paste the result
 Themes: switch light/dark theme
 Constants: π, e
 User-friendly interface: resizable window, adaptive button grid
-How to launch
+
+
+### How to launch
 Option 1. Launch .exe
 Run Q5_calculator.exe
 Done, enjoy.
-Option 2. Running from source code (requires Python 3)
+
+###Option 2. Running from source code (requires Python 3)
 Install Python (if not already installed).
 Download the calculator.py and Q5calc.png files.
 Run in the terminal:
 python calculator.py
+
 This project is distributed under the MIT license. For more information, see the LICENSE file.
